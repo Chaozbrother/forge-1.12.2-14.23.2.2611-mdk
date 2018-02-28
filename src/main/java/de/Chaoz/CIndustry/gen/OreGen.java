@@ -17,9 +17,6 @@ import java.util.Random;
 
 public class OreGen implements IWorldGenerator {
 
-
-    // huhuu
-
     @Override
     public void generate(Random random, int chunkX, int chunkZ, World world, IChunkGenerator iChunkGenerator, IChunkProvider iChunkProvider) {
 
