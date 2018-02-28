@@ -20,3 +20,12 @@ build
 # other
 eclipse
 run
+
+# Explicit ignores
+CREDITS-fml.txt
+forge-1.12.2-14.23.2.2611-changelog.txt
+LICENSE-new.txt
+MinecraftForge-Credits.txt
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+README.txt
