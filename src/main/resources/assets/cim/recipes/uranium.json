@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"  ],
+  "key": {
+    "A": [
+      {
+        "item": "cim:uranium",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "cim:uranium_block",
+    "data": 0
+  }
+}
